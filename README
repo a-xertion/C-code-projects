@@ -1,0 +1,1 @@
+This is a documentation of my readability project. My readability project is a code made from C where the user can input any sentence, and, using the Coleman-Liau formula, will return the proper grade reading level of the inputted sentence. 
