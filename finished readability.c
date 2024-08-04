@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <cs50.h>
 #include <string.h>
 #include <stdbool.h>
 #include <math.h>
